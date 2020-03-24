@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Pathfinding",
+"dataUrl": "pathfinding.data.unityweb",
+"wasmCodeUrl": "pathfinding.wasm.code.unityweb",
+"wasmFrameworkUrl": "pathfinding.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
